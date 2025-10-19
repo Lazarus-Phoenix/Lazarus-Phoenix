@@ -144,7 +144,7 @@ ___
 ## 📫 Как со мной связаться
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/your_username](https://t.me/Dmitriy_Bezgubov))
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://[vk.com/your_profile](https://vk.com/dmitriy_iwanovich))
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://[vk.com/dmitriy_iwanovich](https://vk.com/dmitriy_iwanovich))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitrij-bezgubov@yandex.ru)
 
 ---
