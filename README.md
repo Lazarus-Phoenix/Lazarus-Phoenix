@@ -62,7 +62,8 @@ my skill stack
 
 </div>
 
-## 💼 Ключевые проекты
+## 💼 Примеры моей работы со стэком технологий в готовых проектах :
+---
 
 ### 🎓 Дипломный проект: [PhoneInvite](https://github.com/Lazarus-Phoenix/PhoneInvite/tree/develop)
 **Технологии:**
@@ -102,6 +103,9 @@ Docker для контейнеризации приложения
 
 Весь код храниться в удаленном Git репозитории.
 
+
+___
+
 ### 🔧 [drf_project](https://github.com/Lazarus-Phoenix/drf_project/tree/feature1)
 **Технологии:**
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -129,7 +133,7 @@ Docker для контейнеризации приложения
 * проверялось mypy
 * правилось black
 
-## 🌱 Что изучаю сейчас\
+## 🌱 Что изучаю сейчас
 
 - Углубляю знания в Docker и контейнеризации
 - Изучаю микросервисную архитектуру
